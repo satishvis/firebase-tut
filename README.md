@@ -1,3 +1,10 @@
+# Based on the following video:
+
+-   https://www.youtube.com/watch?v=jCY6DH8F4oc
+-   Placing env variables into .env file and calling it in our program does not work. After a lot of research, realized that we need to per force send in the `projectId` in **firebase-config**.
+-  Nicely explained and did learn a lot about Firestore.
+-   Note `firebase` and `firestore` are not the same.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
